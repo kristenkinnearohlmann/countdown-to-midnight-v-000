@@ -3,7 +3,7 @@ number = 10
 
 def countdown(number)
   while number > 0
-    puts "#{number} seconds(s)!".upcase
+    puts "#{number} seconds(s)!\n".upcase
     number -= 1
   end
 
