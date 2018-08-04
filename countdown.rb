@@ -10,6 +10,8 @@ def countdown(number)
   "Happy New Year!".upcase
 end
 
+number = 10
+
 def countdown_with_sleep(number)
   while number > 0
     puts "#{number} seconds(s)!\n".upcase
