@@ -6,5 +6,5 @@ def countdown(number)
     number -= 1
   end
 
-  puts "Happy New Year".upcase
+  puts "Happy New Year!".upcase
 end
